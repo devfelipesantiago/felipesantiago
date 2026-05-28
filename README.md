@@ -48,6 +48,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 | **[Shopping](https://github.com/devfelipesantiago/java-shopping)** | Este projeto é projeto de aplicação REST API desenvolvido em Java com o framework Spring Boot para gerenciamento de um contexto de compras (Shopping). | Java 17, Spring Boot 3.1.1, Spring Web, Spring Data JPA, H2 Database, Lombok, SpringDoc OpenAPI, Maven | [Link para o projeto](https://github.com/devfelipesantiago/java-shopping) |
 ---
 
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
