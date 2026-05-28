@@ -20,10 +20,10 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
-| **[MongoDB Commerce](https://github.com/devfelipesantiago/mongodb-commerce/)** | **MongoDB:** Prática de conceitos de MongoDB utilizando um banco de dados com cardápio do McDonald's. | MongoDB (banco `commerce`) |
-| **[MySQL All For One](https://github.com/devfelipesantiago/mysql-all-for-one/)** | **MySQL:** Introdução ao SQL, execução de queries básicas e avançadas no banco de dados Northwind. | MySQL (banco `Northwind`) |
-| **[MySQL One For All](https://github.com/devfelipesantiago/mysql-one-for-all/)** | **MySQL:** Normalização de tabelas (até a 3ª Forma Normal) e execução de queries em um banco de dados simplificado do Spotify. | MySQL (banco `SpotifyClone`) |
-| **[MySQL Vocabulary Booster](https://github.com/devfelipesantiago/mysql-vocabulary-booster)** | **MySQL:** Exploração aprofundada de conceitos SQL (JOINs, SUBQUERIES, procedures, triggers) usando os bancos de dados hr e w3schools. | MySQL (bancos `hr`, `w3schools`) |
+| **[MongoDB Commerce](https://github.com/devfelipesantiago/mongodb-commerce/)** | **MongoDB:** Prática de conceitos de MongoDB utilizando um banco de dados com cardápio do McDonald's. | MongoDB (banco `commerce`) | [Link para o projeto](https://github.com/devfelipesantiago/mongodb-commerce/)
+| **[MySQL All For One](https://github.com/devfelipesantiago/mysql-all-for-one/)** | **MySQL:** Introdução ao SQL, execução de queries básicas e avançadas no banco de dados Northwind. | MySQL (banco `Northwind`) | [Link para o projeto](https://github.com/devfelipesantiago/mysql-all-for-one/)
+| **[MySQL One For All](https://github.com/devfelipesantiago/mysql-one-for-all/)** | **MySQL:** Normalização de tabelas (até a 3ª Forma Normal) e execução de queries em um banco de dados simplificado do Spotify. | MySQL (banco `SpotifyClone`) | [Link para o projeto](https://github.com/devfelipesantiago/mysql-one-for-all/)
+| **[MySQL Vocabulary Booster](https://github.com/devfelipesantiago/mysql-vocabulary-booster)** | **MySQL:** Exploração aprofundada de conceitos SQL (JOINs, SUBQUERIES, procedures, triggers) usando os bancos de dados hr e w3schools. | MySQL (bancos `hr`, `w3schools`) | [Link para o projeto](https://github.com/devfelipesantiago/mysql-vocabulary-booster)
 
 ## 🐍 Python
 
