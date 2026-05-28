@@ -43,6 +43,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 | --- | --- | --- | --- |
 | **[Project Delivery App](https://github.com/devfelipesantiago/project-delivery-app)** | Este projeto é uma aplicação web de uma distribuidora de cervejas, com foco em boas práticas de desenvolvimento de software. | Node.js, Express, MySQL, JWT, Reactjs, CSS | [Link para o projeto](https://github.com/devfelipesantiago/project-delivery-app) |
 | **[Rest API Typescript](https://github.com/devfelipesantiago/Api-Rest-Typescript)** | Uma API REST completa para gestão de bibliotecas, desenvolvida com boas práticas, testes automatizados e arquitetura em camadas. | Node.js, TypeScript, Express, Sequelize (ORM), MySQL, Docker, Docker Compose, Mocha, Chai e Sinon para Testes Unitários | [Link para o projeto](https://github.com/devfelipesantiago/Api-Rest-Typescript) |
+| **[Medical API](https://github.com/devfelipesantiago/medical-integration)** | API REST para integração de pedidos de exame, documentos e chegada de imagens DICOM, desenvolvida com NestJS + TypeORM + SQLite | NestJS, TypeORM, SQLite, Docker | [Link para o projeto](https://github.com/devfelipesantiago/medical-integration) |
 
 ***
 
