@@ -10,13 +10,13 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 - [Nodejs](#nodejs)
 - [Java](#java)
 
-## 📈 Data Enginnering
+# 📈 Data Enginnering
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
 | **Projeto 1** | Descrição do projeto 1 | Tecnologias usadas no projeto 1 | Link para o projeto 1 |
 
-## 🛢️ SQL
+# 🛢️ SQL
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
@@ -25,13 +25,13 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 | **[MySQL One For All](https://github.com/devfelipesantiago/mysql-one-for-all/)** | **MySQL:** Normalização de tabelas (até a 3ª Forma Normal) e execução de queries em um banco de dados simplificado do Spotify. | MySQL (banco `SpotifyClone`) | [Link para o projeto](https://github.com/devfelipesantiago/mysql-one-for-all/)
 | **[MySQL Vocabulary Booster](https://github.com/devfelipesantiago/mysql-vocabulary-booster)** | **MySQL:** Exploração aprofundada de conceitos SQL (JOINs, SUBQUERIES, procedures, triggers) usando os bancos de dados hr e w3schools. | MySQL (bancos `hr`, `w3schools`) | [Link para o projeto](https://github.com/devfelipesantiago/mysql-vocabulary-booster)
 
-## 🐍 Python
+# 🐍 Python
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
 | **[Tech News](https://github.com/devfelipesantiago/tech-news)** | Este projeto é um projeto em Python com foco em Web Scraping e Análise de Dados de notícias de tecnologia. O projeto realiza a extração de dados da página de novidades do site TecMundo, salva essas informações em um banco de dados MongoDB e disponibiliza uma interface interativa via linha de comando (CLI) para realizar consultas e análises sobre os dados extraídos. | Python, Requests, Parsel, MongoDB, Pytest, Flake8 | [Link para o projeto](https://github.com/devfelipesantiago/tech-news) |
 
-## 🟢 Nodejs
+# 🟢 Nodejs
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 | **[Rest API Typescript](https://github.com/devfelipesantiago/Api-Rest-Typescript)** | Uma API REST completa para gestão de bibliotecas, desenvolvida com boas práticas, testes automatizados e arquitetura em camadas. | Node.js, TypeScript, Express, Sequelize (ORM), MySQL, Docker, Docker Compose, Mocha, Chai e Sinon para Testes Unitários | [Link para o projeto](https://github.com/devfelipesantiago/Api-Rest-Typescript) |
 ---
 
-## ☕ Java
+# ☕ Java
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
