@@ -44,3 +44,16 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 | **[Alexandria](https://github.com/devfelipesantiago/Library)** | Sistema de gerenciamento de biblioteca RESTful utilizando o ecossistema Spring Boot. | Java 23, Spring Boot 3.4.3, Spring Data JPA, Hibernate, MySQL, Maven | [Link para o projeto](https://github.com/devfelipesantiago/Library) |
 | **[Projeto Agrix - API Agrícola](https://github.com/devfelipesantiago/projeto-final-agrix)** | Este projeto é uma API RESTful desenvolvida em Java com Spring Boot, voltada para o gerenciamento de informações agrícolas, como fazendas, culturas e fertilizantes. | Java 17+, Spring Boot, Spring Security, JWT, Maven, JUnit | [Link para o projeto](https://github.com/devfelipesantiago/projeto-final-agrix) |
 | **[Shopping](https://github.com/devfelipesantiago/java-shopping)** | Este projeto é projeto de aplicação REST API desenvolvido em Java com o framework Spring Boot para gerenciamento de um contexto de compras (Shopping). | Java 17, Spring Boot 3.1.1, Spring Web, Spring Data JPA, H2 Database, Lombok, SpringDoc OpenAPI, Maven | [Link para o projeto](https://github.com/devfelipesantiago/java-shopping) |
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+</p>
