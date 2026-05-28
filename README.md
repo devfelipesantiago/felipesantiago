@@ -31,7 +31,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 | --- | --- | --- | --- |
 | **[Tech News](https://github.com/devfelipesantiago/tech-news)** | Este projeto é um projeto em Python com foco em Web Scraping e Análise de Dados de notícias de tecnologia. O projeto realiza a extração de dados da página de novidades do site TecMundo, salva essas informações em um banco de dados MongoDB e disponibiliza uma interface interativa via linha de comando (CLI) para realizar consultas e análises sobre os dados extraídos. | Python, Requests, Parsel, MongoDB, Pytest, Flake8 | [Link para o projeto](https://github.com/devfelipesantiago/tech-news) |
 
-## Nodejs
+## 🟢 Nodejs
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
