@@ -10,7 +10,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 - [Nodejs](#nodejs)
 - [Java](#java)
 
-# 📈 Data Enginnering
+# Data Enginnering
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
@@ -18,7 +18,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 
 ***
 
-# 🛢️ SQL
+# SQL
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 
 ***
 
-# 🐍 Python
+# Python
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 
 ***
 
-# 🟢 Nodejs
+# Nodejs
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
@@ -47,7 +47,7 @@ Bem vindo ao meu portifólio de dados. Aqui você encontra os meus projetos de d
 
 ***
 
-# ☕ Java
+# Java
 
 | **Projeto** | **Descrição** | **Tecnologias** | **Link** |
 | --- | --- | --- | --- |
